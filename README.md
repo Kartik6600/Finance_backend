@@ -53,11 +53,17 @@ This project follows a clean and modular backend architecture:
 ## 🚀 Features
 
 ✅ Secure Authentication (JWT + bcrypt)
+
 ✅ Role-Based Access Control (Viewer / Analyst / Admin)
+
 ✅ Financial Records CRUD Operations
+
 ✅ Dashboard Summary APIs
+
 ✅ MongoDB Data Persistence
+
 ✅ Clean Architecture (MVC Pattern)
+
 ✅ Error Handling & Validation
 
 ---
